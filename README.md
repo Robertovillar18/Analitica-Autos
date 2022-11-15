@@ -69,14 +69,17 @@
 ## :star2: introducción
 <div align="presentación"> 
   <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
-
+</div>
 <!-- presentación -->
 ### :wave: presentación
 
 <details>
   <summary>presentación</summary>
   <ul>
-    <li><a href="https://docs.google.com/presentation/d/1-MnyyT9jfggdywjaKsorB0gn1DC5vBcwyUOzdoZ4ZMY/edit?usp=sharing">Presentación</a></li><div>
+    <li>
+      <a href="https://docs.google.com/presentation/d/1-MnyyT9jfggdywjaKsorB0gn1DC5vBcwyUOzdoZ4ZMY/edit?usp=sharing">Presentación</a>
+    </li>
+  </ul>
     
 <!-- proceso -->
 ## :toolbox: proceso
