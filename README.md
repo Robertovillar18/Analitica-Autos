@@ -81,7 +81,8 @@
       <a href="https://docs.google.com/presentation/d/1-MnyyT9jfggdywjaKsorB0gn1DC5vBcwyUOzdoZ4ZMY/edit?usp=sharing">Presentación</a>
     </li>
   </ul>
-</details>  
+</details>
+
 <!-- proceso -->
 ## :toolbox: proceso
 
