@@ -70,6 +70,7 @@
 <div align="presentación"> 
   <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
 </div>
+
 <!-- presentación -->
 ## :wave: presentación
 
